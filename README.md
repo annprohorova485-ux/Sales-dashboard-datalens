@@ -1,5 +1,5 @@
 # ETL-обработка данных и дашборд в Yandex DataLens
-
+🔗 **[Посмотреть интерактивный дашборд в Yandex DataLens](https://datalens.yandex/l5izjsokhjpg6?_share_link=public)**
 ## Описание задачи
 Полный цикл подготовки данных (ETL) в Loginom и построение интерактивного дашборда в Yandex DataLens для анализа продаж.
 
